@@ -91,7 +91,7 @@ function App() {
           Convert to text
         </button>
         <button onClick={exportToWord} style={{ height: 50 }}>
-          Convert to eord doc{" "}
+          Convert to word doc{" "}
         </button>
         <button onClick={exportToWord} style={{ height: 50 }}>
           {" "}
